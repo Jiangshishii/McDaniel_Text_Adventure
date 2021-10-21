@@ -1,0 +1,14 @@
+LOSE CONDITION:
+get ladder
+go backyard
+go window
+
+
+WIN CONDITION:
+go car
+go work
+get key
+go car
+go garage
+go porch
+go house
